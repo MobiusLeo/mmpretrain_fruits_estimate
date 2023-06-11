@@ -1,0 +1,2 @@
+# mmpretrain_fruits_estimate
+利用mmpretrain预测水果种类
